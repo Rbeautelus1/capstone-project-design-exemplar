@@ -16,20 +16,19 @@
     </tr>
     <tr>
         <td colspan="2" >Project Name: </td>
-        <td colspan="3" >WIN Belize Knowledge Managment System</td>    
+        <td colspan="3" >PET-MED</td>    
     </tr>
     <tr>
         <td colspan="2">Executive Sponsors: </td>
-        <td colspan="3">Dianne Smith</td>
+        <td colspan="3">American Kennel Club</td>
     </tr>
     <tr>
         <td colspan="2">Department Sponsor: </td>
-        <td colspan="3">Melissa Tate</td>
+        <td colspan="3">Vanessa COote</td>
     </tr>
     <tr>
         <td colspan="2">Impact of project:</td>
-        <td colspan="3">To enhance information management and facilitate data-driven decision-making on
-women's issues, health, and employment.</td>
+        <td colspan="3">Our main priority is to achieve improved pet health and well-being for dogs globally, along with increased user engagement so that owners can utilize the app for various health-related needs.</td>
     </tr>
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">2. Project Team</td>
@@ -43,35 +42,35 @@ women's issues, health, and employment.</td>
     </tr>
     <tr>
         <td>Project Manager:</td>
-        <td>Vanessa Coote</td>
+        <td>Robert Beautelus</td>
         <td>Exec. Management</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>Team Members:  </td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Jeremy Metellus</td>
+        <td>Miles Sharpton</td>
+        <td>Thurgood Watson</td>
         <td></td>   
     </tr>
     <tr>
         <td></td>
-        <td>Jasmine Carter</td>
+        <td>Thurgood Watson</td>
         <td>Development</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Michael Thompson</td>
+        <td>Miles Sharpton</td>
         <td>Design</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Melissa Tate</td>
+        <td>Jeremy Metellus</td>
         <td>Management</td>
         <td></td>
         <td></td>
@@ -108,8 +107,8 @@ women's issues, health, and employment.</td>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">3. Stakeholders (e.g., those with a significant interest in or who will be significantly affected by this project)</td>  
     </tr>
     <tr rowspan="4">
-        <td colspan="5">WIN Belize, National Women's Commision of Belize (NWC), UN Development Program (UNDP) Belize
-Inspiration Center, Women's Department Belize, Family Violence Prevention Project (FVPP), Belize Family Life Association (BFLA), Ministry of Health, National AIDS Commission, Belize Police Department, UNICEF, General Public</td> 
+        <td colspan="5">PET-MED, American Kennel Club, American Veterinary Medical Association, 1800 PetMeds, PetSmart, PetCo, Humane Society
+</td> 
     </tr>
     <tr>
         <td colspan="5" style="font-weight:bold; background-color:#F4811F">4. Project Scope Statement</td>
@@ -118,7 +117,7 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
         <td colspan="5">Project Purpose / Business Justification Describe the business need this project addresses</td>  
     </tr>
     <tr>
-        <td colspan="5">To provide a comprehensive knowledge base system to empower women and advocate for their well-being</td>  
+        <td colspan="5">To provide meaningful solutions that improve the quality of life for dogs.</td>  
     </tr>
     <tr>
         <td colspan="5">Objectives (in business terms) Describe the measurable outcomes of the project, e.g., reduce cost by xxxx or increase quality to yyyy</td>
@@ -126,10 +125,17 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
     <tr>
         <td colspan="5">
             <ol>
-                <li>Achieve a 30% increase in data retrieval speed compared to the existing manual system</li>
-                <li>Reduce data entry time by 25% compared to the previous data input processes.
+                <li>Increase sales revenue by 40% within the next year.</li>
+                <li>Launch 100 new peobiotic formulations tailored to specific health needs of dogs within the next year. 
+                   </li>
+                <li>Secure partnerships with 5 new veterinarians or pet clinics to recommend and prescribe Pet-Med Inc products within the next six months.
                 </li>
-                <li>Develop and implement at least 5 different report templates covering various aspects of women's issues, health,and employment.</li>
+                <li> Maintain a customer satisfactiom rating of 75% or higher based on feedback survery within the next year.
+                </li>
+                <li> Ensure all products meet federal and state regulations concerning pet pharmaceuticals at all times.
+                </li>
+                <li> Sponsor and participate in pet-related events or trade shows to showcase Pet-Med Inc products and services within the next quarter.
+                </li>
             </ol>
         </td>
     </tr>
